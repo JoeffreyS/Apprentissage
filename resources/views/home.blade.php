@@ -15,7 +15,7 @@
                     @endif
 
                     You are logged in! now
-                </div>hgfhgfhgfghf
+                </div>
             </div>
         </div>
     </div>
